@@ -1,0 +1,10 @@
+path: ./data
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: with_helmet
+  1: without_helmet
+
+nc: 2
